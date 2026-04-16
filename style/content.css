@@ -1,0 +1,15 @@
+.section-producs{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+.product-item{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    border: solid 1px #dacb8a;
+    padding: 6px;
+    margin: 6px;
+    border-radius: 10px;
+}
+}

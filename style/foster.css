@@ -1,0 +1,21 @@
+header{
+    background-color: #897632;
+}
+.footer-ul-list{
+    list-style: none;
+    display: flex;
+   flex-direction:row;
+   
+  li{ 
+    border-radius: 10px;
+    margin: 30px;
+    padding: 10px;
+    text-decoration: none;  
+    text-decoration: none;
+    color: black; 
+    background-color: #897632;
+ &:hover{
+    background-color: #6bb88a;
+ }
+}
+}

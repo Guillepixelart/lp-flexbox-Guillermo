@@ -1,0 +1,20 @@
+.header-ul-list{
+    list-style: none;
+    display: flex;
+
+li{ 
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px; 
+ &:hover{
+    background-color: #6bb88a;
+ }
+}
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    background-color: #897632;
+}
